@@ -1,0 +1,21 @@
+
+body {
+  font-family: Helvetica, Arial, "sans-serif";
+}
+
+img {
+  height: auto;
+  width: 600px;
+}
+
+.main-header {
+  background-color: rgb(250, 235, 215);
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  }
+
+li {
+  background-color: rgb(176, 245, 222);
+  font-size: 18px;
+}
